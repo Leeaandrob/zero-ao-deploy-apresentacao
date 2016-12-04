@@ -1,0 +1,1 @@
+web: gunicorn zeroaodeploy.wsgi --log-file -
